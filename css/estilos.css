@@ -1,0 +1,166 @@
+@charset "utf-8";
+/* CSS Document */
+#lalista2
+{
+	width:80%;
+	height:200px;
+	text-align:justify;
+	color:#000;
+	font-size:15px;
+	text-height:font-size;
+	font-family:Tahoma, Geneva, sans-serif;
+	margin-left:10%;
+}
+
+#lalista
+{
+	width:80%;
+	height:200px;
+	text-align:justify;
+	color:#000;
+	font-size:15px;
+	text-height:font-size;
+	font-family:Tahoma, Geneva, sans-serif;
+	margin-left:10%;
+}
+#divcontenido{background-color:#FCC; width:100%; height:1000px;}
+#divimagensignos{width:98.5%; height:300px; background-color:#FF9;}
+#divtextosignos{ width:98.5%; height:300px; background-color:#C9F; font-family:"Comic Sans MS", cursive; }
+h3{text-align:center; font-family:"Comic Sans MS", cursive; color:#636; font-size:24px;}
+#signocapricornio{background-color:#9FF; width:100%; height:350px;}
+img{margin-top:10px;}
+#signoacuario{background-color:#C9F; width:100%; height:350px;}
+#signopiscis{background-color:#FCF; width:100%; height:350px;}
+#signoaries{background-color:#FFC; width:100%; height:350px;}
+#signotauro{background-color:#FC9; width:100%; height:350px;}
+#signogeminis{background-color:#CFF; width:100%; height:350px;}
+#signocancer{background-color:#FFC; width:100%; height:350px;}
+#signoleo{background-color:#FC9; width:100%; height:350px;}
+#signovirgo{background-color:#9CF; width:100%; height:350px;}
+#signolibra{background-color:#FCF; width:100%; height:350px;}
+#signoescorpion{background-color:#CCF; width:100%; height:350px;}
+#signosagitario{background-color:#FFF; width:100%; height:350px;}
+#capricornio1{width:100%; height:280px; background-color:#06F;}
+#imagencapricornio{width:60%; height:260px; background-color:#FFF; float:left; margin-top:10px}
+#textocapricornio{width:40%; height:260px; background-color:#CFF; font-size:10px; float:left;margin-top:10px;}
+#capricornio2{width:100%; height:200px; background-color:#CF6;}
+#imagencapricornio2{width:60%; height:180px; float:left; background-color:#CF9; margin-top:10px;}
+#textocapricornio2{width:40%; height:180px; float:left; background-color:#CFC; margin-top:10px;}
+#capricornio3{width:100%; height:200px; background-color:#F33;}
+#imagencapricornio3{width:60%; height:180px; float:left; background-color:#F66; margin-top:10px;}
+#textocapricornio3{width:40%; height:180px; background-color:#FCC; font-size:10px; float:left;margin-top:10px;}
+
+#acuario1{width:100%; height:280px; background-color:#93C;}
+#imagenacuario{width:60%; height:260px; background-color:#FFF; float:left; margin-top:10px}
+#textoacuario{width:40%; height:260px; background-color:#99F; font-size:10px; float:left;margin-top:10px;}
+#acuario2{width:100%; height:200px; background-color:#CF6;}
+#imagenacuario2{width:60%; height:180px; float:left; background-color:#CF9; margin-top:10px;}
+#textoacuario2{width:40%; height:180px; float:left; background-color:#CFC; margin-top:10px;}
+#acuario3{width:100%; height:200px; background-color:#F33;}
+#imagenacuario3{width:60%; height:180px; float:left; background-color:#F66; margin-top:10px;}
+#textoacuario3{width:40%; height:180px; background-color:#FCC; font-size:10px; float:left;margin-top:10px;}
+
+#piscis1{width:100%; height:280px; background-color:#F36;}
+#imagenpiscis{width:60%; height:260px; background-color:#FFF; float:left; margin-top:10px}
+#textopiscis{width:40%; height:260px; background-color:#FCC; font-size:10px; float:left;margin-top:10px;}
+#piscis2{width:100%; height:200px; background-color:#CF6;}
+#imagenpiscis2{width:60%; height:180px; float:left; background-color:#CF9; margin-top:10px;}
+#textopiscis2{width:40%; height:180px; float:left; background-color:#CFC; margin-top:10px;}
+#piscis3{width:100%; height:200px; background-color:#FF6;}
+#imagenpiscis3{width:60%; height:180px; float:left; background-color:#FF6; margin-top:10px;}
+#textopiscis3{width:40%; height:180px; background-color:#FF9; font-size:10px; float:left;margin-top:10px;}
+
+#aries1{width:100%; height:280px; background-color:#F36;}
+#imagenaries{width:60%; height:260px; background-color:#FFF; float:left; margin-top:10px}
+#textoaries{width:40%; height:260px; background-color:#FCC; font-size:10px; float:left;margin-top:10px;}
+#aries2{width:100%; height:200px; background-color:#CF6;}
+#imagenaries2{width:60%; height:180px; float:left; background-color:#CF9; margin-top:10px;}
+#textoaries2{width:40%; height:180px; float:left; background-color:#CFC; margin-top:10px;}
+#aries3{width:100%; height:200px; background-color:#C00;}
+#imagenaries3{width:60%; height:180px; float:left; background-color:#FFF; margin-top:10px;}
+#textoaries3{width:40%; height:180px; background-color:#FCF; font-size:10px; float:left;margin-top:10px;}
+
+#tauro1{width:100%; height:280px; background-color:#F60;}
+#imagentauro{width:60%; height:260px; background-color:#FFF; float:left; margin-top:10px}
+#textotauro{width:40%; height:260px; background-color:#FCC; font-size:10px; float:left;margin-top:10px;}
+#tauro2{width:100%; height:200px; background-color:#F90;}
+#imagentauro2{width:60%; height:180px; float:left; background-color:#000; margin-top:10px;}
+#textotauro2{width:40%; height:180px; float:left; background-color:#FC6; margin-top:10px;}
+#tauro3{width:100%; height:200px; background-color:#C00;}
+#imagentauro3{width:60%; height:180px; float:left; background-color:#FFF; margin-top:10px;}
+#textotauro3{width:40%; height:180px; background-color:#FCF; font-size:10px; float:left;margin-top:10px;}
+
+#geminis1{width:100%; height:280px; background-color:#F60;}
+#imagengeminis{width:60%; height:260px; background-color:#FFF; float:left; margin-top:10px}
+#textogeminis{width:40%; height:260px; background-color:#FCC; font-size:10px; float:left;margin-top:10px;}
+#geminis2{width:100%; height:200px; background-color:#60F;}
+#imagengeminis2{width:60%; height:180px; float:left; background-color:#66F; margin-top:10px;}
+#textogeminis2{width:40%; height:180px; float:left; background-color:#99F; margin-top:10px;}
+#geminis3{width:100%; height:200px; background-color:#39F;}
+#imagengeminis3{width:60%; height:180px; float:left; background-color:#FFF; margin-top:10px;}
+#textogeminis3{width:40%; height:180px; background-color:#CFF; font-size:10px; float:left;margin-top:10px;}
+
+#cancer1{width:100%; height:280px; background-color:#FF3;}
+#imagencancer{width:60%; height:260px; background-color:#FFF; float:left; margin-top:10px}
+#textocancer{width:40%; height:260px; background-color:#FF9; font-size:10px; float:left;margin-top:10px;}
+#cancer2{width:100%; height:200px; background-color:#CF6;}
+#imagencancer2{width:60%; height:180px; float:left; background-color:#FFF; margin-top:10px;}
+#textocancer2{width:40%; height:180px; float:left; background-color:#CF9; margin-top:10px;}
+#cancer3{width:100%; height:200px; background-color:#C00;}
+#imagencancer3{width:60%; height:180px; float:left; background-color:#FFF; margin-top:10px;}
+#textocancer3{width:40%; height:180px; background-color:#F99; font-size:10px; float:left;margin-top:10px;}
+
+
+
+
+#leo1{width:100%; height:280px; background-color:#FF3;}
+#imagenleo{width:60%; height:260px; background-color:#FFF; float:left; margin-top:10px}
+#textoleo{width:40%; height:260px; background-color:#FFC; font-size:10px; float:left;margin-top:10px;}
+#leo2{width:100%; height:200px; background-color:#CF6;}
+#imagenleo2{width:60%; height:180px; float:left; background-color:#FFF; margin-top:10px;}
+#textoleo2{width:40%; height:180px; float:left; background-color:#CF9; margin-top:10px;}
+#leo3{width:100%; height:200px; background-color:#C3C;}
+#imagenleo3{width:60%; height:180px; float:left; background-color:#FFF; margin-top:10px;}
+#textoleo3{width:40%; height:180px; background-color:#C9F; font-size:10px; float:left;margin-top:10px;}
+
+#virgo1{width:100%; height:280px; background-color:#9F9;}
+#imagenvirgo{width:60%; height:260px; background-color:#FFF; float:left; margin-top:10px}
+#textovirgo{width:40%; height:260px; background-color:#CF9; font-size:10px; float:left;margin-top:10px;}
+#virgo2{width:100%; height:200px; background-color:#F90;}
+#imagenvirgo2{width:60%; height:180px; float:left; background-color:#FFF; margin-top:10px;}
+#textovirgo2{width:40%; height:180px; float:left; background-color:#F96; margin-top:10px;}
+#virgo3{width:100%; height:200px; background-color:#F3C;}
+#imagenvirgo3{width:60%; height:180px; float:left; background-color:#FFF; margin-top:10px;}
+#textovirgo3{width:40%; height:180px; background-color:#FCF; font-size:10px; float:left;margin-top:10px;}
+
+
+#libra1{width:100%; height:280px; background-color:#CFC;}
+#imagenlibra{width:60%; height:260px; background-color:#FFF; float:left; margin-top:10px}
+#textolibra{width:40%; height:260px; background-color:#CF9; font-size:10px; float:left;margin-top:10px;}
+#libra2{width:100%; height:200px; background-color:#F6F;}
+#imagenlibra2{width:60%; height:180px; float:left; background-color:#FFF; margin-top:10px;}
+#textolibra2{width:40%; height:180px; float:left; background-color:#FCF; margin-top:10px;}
+#libra3{width:100%; height:200px; background-color:#F00;}
+#imagenlibra3{width:60%; height:180px; float:left; background-color:#FFF; margin-top:10px;}
+#textolibra3{width:40%; height:180px; background-color:#F6C; font-size:10px; float:left;margin-top:10px;}
+
+
+#escorpion1{width:100%; height:280px; background-color:#999;}
+#imagenescorpion{width:60%; height:260px; background-color:#FFF; float:left; margin-top:10px}
+#textoescorpion{width:40%; height:260px; background-color:#CCC; font-size:10px; float:left;margin-top:10px;}
+#escorpion2{width:100%; height:200px; background-color:#F69;}
+#imagenescorpion2{width:60%; height:180px; float:left; background-color:#FFF; margin-top:10px;}
+#textoescorpion2{width:40%; height:180px; float:left; background-color:#FCC; margin-top:10px;}
+#escorpion3{width:100%; height:200px; background-color:#F00;}
+#imagenescorpion3{width:60%; height:180px; float:left; background-color:#FFF; margin-top:10px;}
+#textoescorpion3{width:40%; height:180px; background-color:#F3F; font-size:10px; float:left;margin-top:10px;}
+
+#sagitario1{width:100%; height:280px; background-color:#3CF;}
+#imagensagitario{width:60%; height:260px; background-color:#FFF; float:left; margin-top:10px}
+#textosagitario{width:40%; height:260px; background-color:#6FF; font-size:10px; float:left;margin-top:10px;}
+#sagitario2{width:100%; height:200px; background-color:#F39;}
+#imagensagitario2{width:60%; height:180px; float:left; background-color:#FFF; margin-top:10px;}
+#textosagitario2{width:40%; height:180px; float:left; background-color:#F9C; margin-top:10px;}
+#sagitario3{width:100%; height:200px; background-color:#333;}
+#imagensagitario3{width:60%; height:180px; float:left; background-color:#FFF; margin-top:10px;}
+#textosagitario3{width:40%; height:180px; background-color:#FFC; font-size:10px; float:left;margin-top:10px;}
